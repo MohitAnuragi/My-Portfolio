@@ -2,7 +2,7 @@
 
 ![Portfolio Hero](./public/hero.png)
 
-## üöÄ Overview
+##  Overview
 
 This portfolio showcases the work of Mohit Anuragi, a final-year B.Tech Computer Science student at IIIT Kota, focused on Android development, software engineering, and building production-ready mobile experiences with Kotlin and Jetpack Compose.
 
@@ -10,7 +10,7 @@ The project retains the approved 3D portfolio experience while presenting Mohit‚
 
 ---
 
-## ‚ú® Highlights
+##  Highlights
 
 - Android development with Kotlin, Java, and Jetpack Compose
 - Production Android applications and reusable open-source libraries
@@ -21,7 +21,7 @@ The project retains the approved 3D portfolio experience while presenting Mohit‚
 
 ---
 
-## üõ†Ô∏è Technology Stack
+##  Technology Stack
 
 - Kotlin
 - Java
@@ -49,7 +49,7 @@ The project retains the approved 3D portfolio experience while presenting Mohit‚
 
 ---
 
-## ‚öôÔ∏è Getting Started
+##  Getting Started
 
 1. **Install dependencies**
    ```bash
@@ -68,7 +68,7 @@ The project retains the approved 3D portfolio experience while presenting Mohit‚
 
 ---
 
-## ‚úâÔ∏è Contact
+##  Contact
 
 - **Email**: [techmohit468@gmail.com](mailto:techmohit468@gmail.com)
 - **Phone**: +91 7697273248
@@ -78,6 +78,6 @@ The project retains the approved 3D portfolio experience while presenting Mohit‚
 
 ---
 
-## üìÑ License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
