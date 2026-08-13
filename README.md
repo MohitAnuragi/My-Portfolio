@@ -71,10 +71,8 @@ The project retains the approved 3D portfolio experience while presenting Mohitâ
 ##  Contact
 
 - **Email**: [techmohit468@gmail.com](mailto:techmohit468@gmail.com)
-- **Phone**: +91 7697273248
 - **GitHub**: [MohitAnuragi](https://github.com/MohitAnuragi/)
 - **LinkedIn**: [Mohit Anuragi](https://www.linkedin.com/in/mohit-a-52989b2b2/)
-- **LeetCode**: [MOHIT_ANURAGI](https://leetcode.com/u/MOHIT_ANURAGI/)
 
 ---
 
